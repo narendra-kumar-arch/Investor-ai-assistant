@@ -1,0 +1,3 @@
+langchain-anthropic>=0.3.0
+langchain-core>=0.3.0
+rich>=13.0.0
