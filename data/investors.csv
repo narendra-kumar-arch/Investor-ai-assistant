@@ -1,0 +1,113 @@
+investor_id,investor_name,investor_type,country,reporting_currency,age,tech_savviness,kyc_status,onboarded_date,email
+INV001,Idris Olawale,Individual,United Kingdom,GBP,52,High,Verified,2021-02-10,idris.olawale@example.com
+INV002,Selina Voss,Individual,United Kingdom,GBP,49,High,Verified,2021-02-10,selina.voss@example.com
+INV003,Cedarmoor Capital,Entity,United States,USD,,High,Verified,2021-05-15,cedarmoor.capital@example.com
+INV004,Brightmere Family Office,Entity,United Kingdom,GBP,,High,Verified,2021-08-30,brightmere.family.office@example.com
+INV005,Qabas Holdings,Entity,UAE,AED,,Medium,Verified,2021-03-12,qabas.holdings@example.com
+INV006,Halberd Asset Management,Entity,United States,USD,,High,Verified,2021-11-01,halberd.asset.management@example.com
+INV007,Banyanwood Trust,Entity,Singapore,USD,,High,Verified,2022-02-20,banyanwood.trust@example.com
+INV008,Norreave Ventures LLP,Entity,United Kingdom,GBP,,High,Verified,2022-04-19,norreave.ventures.llp@example.com
+INV009,Mona Khalil,Individual,UAE,AED,44,Medium,Verified,2021-06-01,mona.khalil@example.com
+INV010,Yuki Tanaka,Individual,Japan,USD,38,High,Verified,2022-01-20,yuki.tanaka@example.com
+INV011,Sophie Laurent,Individual,France,EUR,45,Medium,Verified,2022-04-18,sophie.laurent@example.com
+INV012,Daniel Cohen,Individual,United States,USD,61,Low,Verified,2022-10-09,daniel.cohen@example.com
+INV013,Mei Lin,Individual,Singapore,USD,41,High,Verified,2023-01-14,mei.lin@example.com
+INV014,Lucas Muller,Individual,Germany,EUR,50,Medium,Verified,2023-05-08,lucas.muller@example.com
+INV015,Rohan Mehta,Individual,India,USD,36,High,Verified,2022-07-11,rohan.mehta@example.com
+INV016,Isabella Rossi,Individual,Italy,EUR,58,Low,Verified,2022-08-22,isabella.rossi@example.com
+INV017,Elena Petrova,Individual,United Kingdom,GBP,67,Low,Verified,2023-11-02,elena.petrova@example.com
+INV018,Marcus Webb,Individual,United States,USD,39,Medium,Verified,2024-01-25,marcus.webb@example.com
+INV019,Priya Nair,Individual,India,USD,33,High,Verified,2023-06-21,priya.nair@example.com
+INV020,Amara Diallo,Individual,Nigeria,USD,47,Medium,Verified,2021-04-07,amara.diallo@example.com
+INV021,Grace Okafor,Individual,Nigeria,USD,34,Medium,Pending,2026-05-02,grace.okafor@example.com
+INV022,Henrik Sorensen,Individual,Denmark,EUR,55,Medium,Verified,2026-06-01,henrik.sorensen@example.com
+INV023,Lara Greco,Individual,Italy,EUR,29,High,Pending,2026-06-15,lara.greco@example.com
+INV024,Pinecrest Asset Partners,Entity,Switzerland,EUR,,High,Verified,2024-08-17,pinecrest.asset.partners@example.com
+INV025,Glenmoor Family Office,Entity,Kenya,USD,,High,Verified,2024-11-20,glenmoor.family.office@example.com
+INV026,Fairwind Capital,Entity,Jordan,USD,,High,Verified,2023-03-03,fairwind.capital@example.com
+INV027,Brookline Holdings,Entity,Nigeria,USD,,High,Verified,2024-11-24,brookline.holdings@example.com
+INV028,Fairwind Holdings,Entity,United Kingdom,GBP,,High,Verified,2025-02-02,fairwind.holdings@example.com
+INV029,Brookline Family Office,Entity,Netherlands,EUR,,High,Verified,2025-01-25,brookline.family.office@example.com
+INV030,Pinecrest Partners LLP,Entity,Jordan,USD,,High,Verified,2025-04-17,pinecrest.partners.llp@example.com
+INV031,Hartwell Trust,Entity,Japan,USD,,High,Verified,2024-01-22,hartwell.trust@example.com
+INV032,Castlebay Ventures,Entity,Brazil,USD,,High,Verified,2023-07-18,castlebay.ventures@example.com
+INV033,Olu Ferreira,Individual,Ireland,EUR,41,Medium,Verified,2023-06-25,olu.ferreira@example.com
+INV034,Bilal Eriksson,Individual,Canada,USD,45,Medium,Verified,2021-07-04,bilal.eriksson@example.com
+INV035,Bilal Saito,Individual,United Kingdom,GBP,57,Medium,Verified,2022-04-02,bilal.saito@example.com
+INV036,Aditi Zhang,Individual,South Africa,USD,39,High,Verified,2021-10-21,aditi.zhang@example.com
+INV037,Ravi Volkov,Individual,UAE,AED,53,High,Verified,2023-06-01,ravi.volkov@example.com
+INV038,Hana Ibarra,Individual,Netherlands,EUR,56,High,Verified,2021-01-02,hana.ibarra@example.com
+INV039,Lena Saito,Individual,Switzerland,EUR,39,High,Verified,2022-08-17,lena.saito@example.com
+INV040,Eva Ibarra,Individual,South Africa,USD,53,High,Verified,2024-02-13,eva.ibarra@example.com
+INV041,Aaron Romano,Individual,Canada,USD,38,Medium,Verified,2023-01-07,aaron.romano@example.com
+INV042,Jasper Mensah,Individual,Brazil,USD,36,Medium,Verified,2025-02-02,jasper.mensah@example.com
+INV043,Qing Abara,Individual,Australia,USD,31,Low,Verified,2023-05-13,qing.abara@example.com
+INV044,Nadia Laurance,Individual,Brazil,USD,50,Medium,Verified,2022-01-20,nadia.laurance@example.com
+INV045,Dalia Ibarra,Individual,Canada,USD,51,Low,Verified,2024-10-05,dalia.ibarra@example.com
+INV046,Julia Travers,Individual,Netherlands,EUR,39,Medium,Verified,2025-04-24,julia.travers@example.com
+INV047,Omar Johansson,Individual,Spain,EUR,32,Medium,Verified,2024-08-20,omar.johansson@example.com
+INV048,Gabriel Garcia,Individual,United States,USD,72,Low,Verified,2025-05-08,gabriel.garcia@example.com
+INV049,Andre Mensah,Individual,Saudi Arabia,AED,73,High,Verified,2023-09-06,andre.mensah@example.com
+INV050,Ivan Owusu,Individual,Saudi Arabia,AED,66,Medium,Verified,2025-11-28,ivan.owusu@example.com
+INV051,Ravi Nakamura,Individual,Spain,EUR,53,Medium,Verified,2021-02-09,ravi.nakamura@example.com
+INV052,Deepak Costa,Individual,Italy,EUR,63,High,Verified,2023-06-17,deepak.costa@example.com
+INV053,Farah Xu,Individual,Germany,EUR,73,Medium,Verified,2024-06-22,farah.xu@example.com
+INV054,Liam Ibarra,Individual,Canada,USD,49,Medium,Verified,2021-01-16,liam.ibarra@example.com
+INV055,Chloe Bauer,Individual,Australia,USD,73,Low,Verified,2021-08-03,chloe.bauer@example.com
+INV056,Ivan Eriksson,Individual,UAE,AED,29,High,Verified,2024-09-12,ivan.eriksson@example.com
+INV057,Carmen Weber,Individual,Ireland,EUR,32,High,Verified,2022-06-12,carmen.weber@example.com
+INV058,Maya Eriksson,Individual,South Africa,USD,27,High,Verified,2021-08-19,maya.eriksson@example.com
+INV059,Yusuf Yilmaz,Individual,Canada,USD,32,Low,Verified,2021-10-03,yusuf.yilmaz@example.com
+INV060,Hana Quinn,Individual,South Africa,USD,71,Medium,Verified,2023-07-24,hana.quinn@example.com
+INV061,Caleb Diaz,Individual,Switzerland,EUR,59,Low,Verified,2021-09-25,caleb.diaz@example.com
+INV062,Mira Ferreira,Individual,Saudi Arabia,AED,34,Medium,Verified,2021-04-23,mira.ferreira@example.com
+INV063,Niamh Reyes,Individual,Saudi Arabia,AED,46,Low,Verified,2023-01-12,niamh.reyes@example.com
+INV064,Niamh Moreau,Individual,Kenya,USD,55,Medium,Verified,2022-06-22,niamh.moreau@example.com
+INV065,Petra Ueno,Individual,Nigeria,USD,54,High,Verified,2023-04-21,petra.ueno@example.com
+INV066,Dmitri Moreau,Individual,Spain,EUR,47,Low,Verified,2024-04-19,dmitri.moreau@example.com
+INV067,Ivan Fontaine,Individual,India,USD,44,High,Verified,2021-12-03,ivan.fontaine@example.com
+INV068,Hana Cohenn,Individual,Saudi Arabia,AED,53,Medium,Verified,2023-04-27,hana.cohenn@example.com
+INV069,Halima Fontaine,Individual,Sweden,EUR,66,Low,Verified,2023-12-27,halima.fontaine@example.com
+INV070,Emeka Costa,Individual,Denmark,EUR,72,Low,Verified,2025-01-22,emeka.costa@example.com
+INV071,Wen Travers,Individual,Brazil,USD,35,Medium,Verified,2025-01-21,wen.travers@example.com
+INV072,Mateo Bauer,Individual,Denmark,EUR,30,High,Verified,2022-03-26,mateo.bauer@example.com
+INV073,Gabriel Okonkwo,Individual,Switzerland,EUR,39,Medium,Verified,2023-02-22,gabriel.okonkwo@example.com
+INV074,Esteban Quinn,Individual,Italy,EUR,72,Low,Verified,2021-08-18,esteban.quinn@example.com
+INV075,Oscar Romano,Individual,India,USD,59,Medium,Verified,2025-12-17,oscar.romano@example.com
+INV076,Dmitri Kapoor,Individual,Nigeria,USD,73,Low,Verified,2022-02-14,dmitri.kapoor@example.com
+INV077,Mateo Okonkwo,Individual,United Kingdom,GBP,68,High,Verified,2024-09-19,mateo.okonkwo@example.com
+INV078,Faisal Volkov,Individual,Jordan,USD,33,High,Verified,2023-11-07,faisal.volkov@example.com
+INV079,Hugo Petrov,Individual,Ireland,EUR,51,High,Verified,2021-04-08,hugo.petrov@example.com
+INV080,Tariq Ismail,Individual,Singapore,USD,28,Medium,Verified,2023-12-28,tariq.ismail@example.com
+INV081,Farah Costa,Individual,Jordan,USD,44,Medium,Verified,2023-09-14,farah.costa@example.com
+INV082,Bilal Nakamura,Individual,UAE,AED,61,Low,Verified,2024-01-06,bilal.nakamura@example.com
+INV083,Faisal Ibarra,Individual,Saudi Arabia,AED,60,Medium,Verified,2022-09-24,faisal.ibarra@example.com
+INV084,Theo Cohenn,Individual,Saudi Arabia,AED,41,Medium,Verified,2025-12-03,theo.cohenn@example.com
+INV085,Jonas Suzuki,Individual,Switzerland,EUR,62,Low,Verified,2022-09-17,jonas.suzuki@example.com
+INV086,Rashid Yilmaz,Individual,Australia,USD,36,High,Verified,2022-05-28,rashid.yilmaz@example.com
+INV087,Halima Romano,Individual,Canada,USD,61,Low,Verified,2024-04-14,halima.romano@example.com
+INV088,Aaron Mensah,Individual,Nigeria,USD,60,High,Verified,2021-09-02,aaron.mensah@example.com
+INV089,Ines Khan,Individual,France,EUR,37,Low,Verified,2024-02-23,ines.khan@example.com
+INV090,Ines Diaz,Individual,South Africa,USD,57,Medium,Verified,2024-05-08,ines.diaz@example.com
+INV091,Viktor Bianchi,Individual,Saudi Arabia,AED,39,Medium,Verified,2025-06-04,viktor.bianchi@example.com
+INV092,Bilal Quinn,Individual,Germany,EUR,36,Medium,Verified,2021-01-07,bilal.quinn@example.com
+INV093,Sara Suzuki,Individual,Singapore,USD,58,Low,Verified,2023-04-20,sara.suzuki@example.com
+INV094,Bjorn Laurance,Individual,France,EUR,72,Low,Verified,2025-10-09,bjorn.laurance@example.com
+INV095,Halima Bianchi,Individual,United Kingdom,GBP,60,Medium,Verified,2024-11-14,halima.bianchi@example.com
+INV096,Ines Nakamura,Individual,Brazil,USD,60,Low,Verified,2025-11-07,ines.nakamura@example.com
+INV097,Ines Novak,Individual,Canada,USD,67,Medium,Verified,2022-04-24,ines.novak@example.com
+INV098,Maya Lindqvist,Individual,Singapore,USD,40,High,Verified,2025-06-07,maya.lindqvist@example.com
+INV099,Mateo Garcia,Individual,Germany,EUR,32,Medium,Verified,2022-03-24,mateo.garcia@example.com
+INV100,Gabriel Bianchi,Individual,South Africa,USD,39,Medium,Verified,2025-12-05,gabriel.bianchi@example.com
+INV101,Sara Bauer,Individual,France,EUR,49,High,Verified,2022-10-22,sara.bauer@example.com
+INV102,Ximena Haddad,Individual,Ireland,EUR,48,Medium,Verified,2025-11-25,ximena.haddad@example.com
+INV103,Sara Moreau,Individual,UAE,AED,29,High,Verified,2024-02-01,sara.moreau@example.com
+INV104,Niamh Gupta,Individual,Canada,USD,38,Low,Verified,2024-03-07,niamh.gupta@example.com
+INV105,Lena Kapoor,Individual,Japan,USD,35,High,Verified,2021-10-02,lena.kapoor@example.com
+INV106,Dalia Eriksson,Individual,France,EUR,54,Medium,Verified,2023-07-15,dalia.eriksson@example.com
+INV107,Beatriz Nakamura,Individual,Australia,USD,71,Low,Verified,2023-01-21,beatriz.nakamura@example.com
+INV108,Mateo Lindqvist,Individual,South Africa,USD,50,Medium,Verified,2024-06-24,mateo.lindqvist@example.com
+INV109,Mateo Mensah,Individual,Italy,EUR,27,Medium,Verified,2021-09-26,mateo.mensah@example.com
+INV110,Farah Ueda,Individual,Brazil,USD,39,Medium,Verified,2024-10-20,farah.ueda@example.com
+INV111,Viktor Yoon,Individual,Denmark,EUR,37,High,Verified,2023-02-24,viktor.yoon@example.com
+INV112,Zara Ibarra,Individual,Singapore,USD,54,High,Verified,2025-12-12,zara.ibarra@example.com

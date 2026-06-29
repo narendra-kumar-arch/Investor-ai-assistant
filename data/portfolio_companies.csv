@@ -1,0 +1,17 @@
+company_id,company_name,sector,hq_country,status,website
+CO001,Forgecraft Robotics,Robotics / Automation,United States,Active,forgecraft.example
+CO002,Mendwell,Digital Health,United Kingdom,Active,mendwell.example
+CO003,Inferna AI,Artificial Intelligence,United States,Active,inferna.example
+CO004,Helianthe Energy,Climate / Energy,Spain,Exited,helianthe.example
+CO005,Yappio,Consumer Social,United States,Written Off,yappio.example
+CO006,Qubrium,Quantum Computing,United Kingdom,Active,qubrium.example
+CO007,Freightyard,Logistics / Supply,Germany,Active,freightyard.example
+CO008,Dateland Foods,FoodTech,UAE,Active,datelandfoods.example
+CO009,Pulsegrid Health,Digital Health,United States,Active,pulsegrid.example
+CO010,Wardenly Security,Cybersecurity,Israel,Active,wardenly.example
+CO011,Northpeak Analytics,Data / Analytics,United States,Active,northpeak-analytics.example
+CO012,Northpeak Health,Digital Health,United Kingdom,Active,northpeak-health.example
+CO013,Greenarc,CleanTech,Netherlands,Active,greenarc.example
+CO014,Voltride,Mobility / EV,France,Active,voltride.example
+CO015,Tallybook,Fintech,Singapore,Active,tallybook.example
+CO016,Helixar Bio,Biotech,United States,Active,helixar.example

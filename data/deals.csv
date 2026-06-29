@@ -1,0 +1,22 @@
+deal_id,company_id,company_name,round,instrument,spv_name,deal_currency,deal_date,pre_money_valuation_m,post_money_valuation_m,round_size_m,equitie_allocation_m,entry_share_price,contributed_pct,std_mgmt_fee_pct,std_performance_fee_pct,std_structuring_fee_pct,std_admin_fee_usd,status
+DEAL001,CO001,Forgecraft Robotics,Seed,Equity,EquiTie Forgecraft Seed SPV,USD,2022-03-15,12.0,15.0,3.0,1.2,2.5,100,2.0,20,4,450,Active
+DEAL002,CO001,Forgecraft Robotics,Series A,Equity,EquiTie Forgecraft Series A SPV,USD,2023-11-20,45.0,57.0,12.0,3.0,7.8,100,2.0,20,4,450,Active
+DEAL003,CO001,Forgecraft Robotics,Series B,Equity,EquiTie Forgecraft Series B SPV,USD,2025-09-25,110.0,138.0,28.0,4.999,15.4,60,2.0,20,4,450,Active
+DEAL004,CO002,Mendwell,Series A,Equity,EquiTie Mendwell Series A SPV,GBP,2023-02-10,20.0,26.0,6.0,1.8,4.2,100,1.5,15,3,450,Active
+DEAL005,CO003,Inferna AI,Seed,SAFE,EquiTie Inferna Seed SPV,USD,2021-09-01,8.0,10.0,2.0,0.8,1.0,100,2.0,20,5,450,Active
+DEAL006,CO003,Inferna AI,Series B,Equity,EquiTie Inferna Series B SPV,USD,2024-06-12,120.0,150.0,30.0,4.5,18.5,100,2.0,20,4,450,Active
+DEAL007,CO004,Helianthe Energy,Series A,Equity,EquiTie Helianthe Series A SPV,EUR,2021-11-05,18.0,23.0,5.0,1.5,3.1,100,2.5,25,5,450,Exited
+DEAL008,CO005,Yappio,Seed,Equity,EquiTie Yappio Seed SPV,USD,2022-01-18,6.0,7.5,1.5,0.6,1.5,100,2.0,20,4,450,Written Off
+DEAL009,CO006,Qubrium,Series A,Equity,EquiTie Qubrium Series A SPV,GBP,2021-10-30,22.0,28.0,6.0,1.6,5.0,100,2.0,20,4,450,Active
+DEAL010,CO006,Qubrium,Series B,Equity,EquiTie Qubrium Series B SPV,GBP,2023-07-22,60.0,75.0,15.0,3.5,10.0,100,2.0,20,4,450,Active
+DEAL011,CO007,Freightyard,Series A,Equity,EquiTie Freightyard Series A SPV,EUR,2023-04-14,25.0,32.0,7.0,2.0,5.5,100,2.0,20,3,450,Active
+DEAL012,CO008,Dateland Foods,Seed,Equity,EquiTie Dateland Seed SPV,AED,2023-10-02,15.0,19.0,4.0,1.0,2.0,100,1.5,20,4,450,Active
+DEAL013,CO009,Pulsegrid Health,Series A,Equity,EquiTie Pulsegrid Series A SPV,USD,2022-08-30,22.0,28.5,6.5,1.8,4.4,100,2.0,20,4,450,Active
+DEAL014,CO009,Pulsegrid Health,Series B,Equity,EquiTie Pulsegrid Series B SPV,USD,2024-09-10,70.0,90.0,20.0,4.0,11.2,50,2.0,20,4,450,Active
+DEAL015,CO010,Wardenly Security,Seed,SAFE,EquiTie Wardenly Seed SPV,USD,2023-01-12,10.0,12.5,2.5,0.9,1.25,100,2.0,20,5,450,Active
+DEAL016,CO011,Northpeak Analytics,Series A,Equity,EquiTie Northpeak Series A SPV,EUR,2023-05-19,28.0,36.0,8.0,2.5,6.0,100,2.5,20,4,450,Active
+DEAL017,CO012,Northpeak Health,Series A,Equity,EquiTie Northpeak Series A SPV,GBP,2024-03-08,16.0,21.0,5.0,1.4,3.6,100,2.0,20,4,450,Active
+DEAL018,CO013,Greenarc,Series A,Equity,EquiTie Greenarc Series A SPV,EUR,2024-01-22,30.0,39.0,9.0,2.6,6.8,100,2.0,15,4,450,Active
+DEAL019,CO014,Voltride,Seed,Equity,EquiTie Voltride Seed SPV,EUR,2024-05-15,14.0,17.5,3.5,1.1,1.8,100,2.0,20,4,450,Active
+DEAL020,CO015,Tallybook,Series A,Equity,EquiTie Tallybook Series A SPV,USD,2022-12-05,26.0,33.5,7.5,2.2,5.0,100,2.0,20,4,450,Active
+DEAL021,CO016,Helixar Bio,Series A,Equity,EquiTie Helixar Series A SPV,USD,2024-11-18,40.0,51.0,11.0,1.338,8.5,100,2.5,25,5,450,Active
