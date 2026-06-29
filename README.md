@@ -1,4 +1,4 @@
-# Investor Assistant — Python Prototype
+# Investor Assistant — Prototype (Python)
 
 Python + LangChain + Rich terminal chatbot. All 10 dataset tables. Two modes.
 Covers every question type in the brief: portfolio overview, single positions,
